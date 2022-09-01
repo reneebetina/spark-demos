@@ -16,6 +16,9 @@ Installation
 
 Reading Materials 
 ----
-APACHE SPARK: https://spark.apache.org/docs/2.2.0/sql-programming-guide.html
-PYSPARK INSTALLATION: https://sparkbyexamples.com/pyspark-tutorial/
-PYTHON PANDAS: https://sparkbyexamples.com/python-pandas-tutorial-for-beginners/
+
+* Apache Spark: https://spark.apache.org/docs/2.2.0/sql-programming-guide.html
+
+* Pyspark Installation: https://sparkbyexamples.com/pyspark-tutorial/
+
+* Python Pandas : https://sparkbyexamples.com/python-pandas-tutorial-for-beginners/
