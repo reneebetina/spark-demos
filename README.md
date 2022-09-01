@@ -10,5 +10,7 @@ Note: This project is just for demo purposes, you can have your own folder struc
 
 Installation
 ----
-`pip install pyarrow`
-Pyarrow module is required.
+REQUIRED MODULES:
+
+`pip install pyarrow` 
+`pip install pandas` 
