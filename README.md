@@ -10,7 +10,12 @@ Note: This project is just for demo purposes, you can have your own folder struc
 
 Installation
 ----
-REQUIRED MODULES:
+`pip install pyarrow`
+`pip install pandas`
 
-`pip install pyarrow` 
-`pip install pandas` 
+
+Reading Materials 
+----
+APACHE SPARK: https://spark.apache.org/docs/2.2.0/sql-programming-guide.html
+PYSPARK INSTALLATION: https://sparkbyexamples.com/pyspark-tutorial/
+PYTHON PANDAS: https://sparkbyexamples.com/python-pandas-tutorial-for-beginners/
